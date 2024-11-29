@@ -14,7 +14,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 📋 **Resume**: Check out My Resume [**here**](www.linkedin.com/in/gamal-osama-1g)  
+- 📋 **Resume**: Check out My Resume [**here**](https://www.linkedin.com/in/gamal-osama-1g)  
 - 🎓 **Graduation**: Mansoura University, Faculty of Engineering, Computer Department.
 - 💬 **Ask me about**: Data science, Machine Learning, Programming.
 - 📫 **Reach me at**: [gamal5osama66@gmail.com](mailto:gamal5osama66@gmail.com)
