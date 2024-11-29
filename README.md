@@ -1,12 +1,12 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 
 <h1 align="center">Hi 👋, I'm Gamal Osama</h1>
-<h3 align="center">Data Scientist</h3>
+<h2 align="center">Data Scientist 💡</h2>
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlybzF1cm43c2c1b3BqaDl0bmhsZ2hpaGVrZzRxdnlycWw3Z2hpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" />
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=gamal1osama&label=Profile%20views&color=0e75b6&style=flat" alt="gamal1osama" width="120" height="30" />
+  <img src="https://komarev.com/ghpvc/?username=gamal1osama&label=Profile%20views&color=0e75b6&style=flat" alt="gamal1osama" width="130" height="30" />
 </p>
 
 
@@ -18,7 +18,7 @@
 - 🎓 **Graduation**: Mansoura University, Faculty of Engineering, Computer Department.
 - 💬 **Ask me about**: Data science, Machine Learning, Programming.
 - 📫 **Reach me at**: [gamal5osama66@gmail.com](mailto:gamal5osama66@gmail.com)
-- 🧠 **Problem solving** Iam a problem solver on [Codeforces](https://codeforces.com/profile/gimy1) and [Leetcode](https://leetcode.com/gamal5osama66/)
+- 🧠 **Problem solving**: Iam a problem solver on [Codeforces](https://codeforces.com/profile/gimy1) and [Leetcode](https://leetcode.com/gamal5osama66/)
 
 ---
 
