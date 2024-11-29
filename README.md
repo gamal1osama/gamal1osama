@@ -17,7 +17,7 @@
 - 📋 **Resume**: Check out My Resume [**here**](www.linkedin.com/in/gamal-osama-1g)  
 - 🎓 **Graduation**: Mansoura University, Faculty of Engineering, Computer Department.
 - 💬 **Ask me about**: Data science, Machine Learning, Programming.
-- 📫 **Reach me at**: [gamal5osama66@gmail.com](gamal5osama66@gmail.com)
+- 📫 **Reach me at**: [gamal5osama66@gmail.com](mailto:gamal5osama66@gmail.com)
 - 🧠 **Problem solving** Iam a problem solver on [Codeforces](https://codeforces.com/profile/gimy1) and [Leetcode](https://leetcode.com/gamal5osama66/)
 
 ---
