@@ -18,7 +18,7 @@
 - 🎓 **Graduation**: Mansoura University, Faculty of Engineering, Computer Department.
 - 💬 **Ask me about**: Data science, Machine Learning, Programming.
 - 📫 **Reach me at**: [gamal5osama66@gmail.com](mailto:gamal5osama66@gmail.com)
-- 🧠 **Problem solving**: Iam a problem solver on [Codeforces](https://codeforces.com/profile/gimy1) and [Leetcode](https://leetcode.com/gamal5osama66/)
+- 🧠 **Problem solving**: Iam a problem solver on  [Leetcode](https://leetcode.com/gamal5osama66/) and [Codeforces](https://codeforces.com/profile/gimy1) 
 
 ---
 
@@ -57,9 +57,14 @@
 ![OOP](https://img.shields.io/badge/OOP-FF6F61?style=flat&logo=object-oriented-programming&logoColor=white) 
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-00796B?style=flat&logo=data-structures&logoColor=white) 
 ![Algorithms](https://img.shields.io/badge/Algorithms-FFC107?style=flat&logo=algorithms&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 
 
 ### 🤖 Data Science & ML:
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=robot&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-9C27B0?style=flat&logo=statistics&logoColor=white) 
 ![Mathematics](https://img.shields.io/badge/Mathematics-4CAF50?style=flat&logo=mathematica&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -67,9 +72,10 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=matplotlib&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=microsoft-sql-server&logoColor=white)
+
 
 ---
 
