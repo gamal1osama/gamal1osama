@@ -18,7 +18,7 @@
 - 🎓 **Graduation**: Mansoura University, Faculty of Engineering, Computer Department.
 - 💬 **Ask me about**: Data science, Machine Learning, Programming.
 - 📫 **Reach me at**: [gamal5osama66@gmail.com](mailto:gamal5osama66@gmail.com)
-- 🧠 **Problem solving**: Iam a problem solver on  [Leetcode](https://leetcode.com/gamal5osama66/) and [Codeforces](https://codeforces.com/profile/gimy1) 
+- 🧠 **Problem solving**: Iam a problem solver on  [Leetcode](https://leetcode.com/Gamal_Osama/) and [Codeforces](https://codeforces.com/profile/gimy1) 
 
 ---
 
