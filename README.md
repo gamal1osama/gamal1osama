@@ -27,14 +27,14 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/Gamal_Osama/" target="_blank">
+  <a href="https://www.linkedin.com/in/gamal-osama" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Gamal Osama" height="40"   width="40" />
   </a>
 
   <a href="https://codeforces.com/profile/gimy1" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces - gamal osama" height="40" width="40" />
   </a>
-  <a href="https://leetcode.com/gamal5osama66/" target="_blank">
+  <a href="https://leetcode.com/Gamal_Osama/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - gamal osama" height="40" width="40" />
   </a>
   <a href="https://www.kaggle.com/gamalosama/" target="_blank">
