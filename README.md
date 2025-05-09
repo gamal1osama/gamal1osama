@@ -31,6 +31,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Gamal Osama" height="40"   width="40" />
   </a>
 
+  <a href="https://wa.me/+201033031559" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Gamal Osama" height="40" width="40" />
+  </a>
+
   <a href="https://codeforces.com/profile/gimy1" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces - gamal osama" height="40" width="40" />
   </a>
