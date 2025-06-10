@@ -1,4 +1,3 @@
-![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 
 <h1 align="center">Hi 👋, I'm Gamal Osama</h1>
 <h2 align="center">Data Scientist 💡</h2>
@@ -14,7 +13,6 @@
 ---
 
 ### 👨‍💻 About Me:
-- 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1wlug8JI2ZkdP7X3vEw-6eXQVbl16iUH1/view?usp=sharing)  
 - 🎓 **Graduation**: Mansoura University, Faculty of Engineering, Computer Department.
 - 💬 **Ask me about**: Data science, Machine Learning, Programming.
 - 📫 **Reach me at**: [gamal5osama66@gmail.com](mailto:gamal5osama66@gmail.com)
