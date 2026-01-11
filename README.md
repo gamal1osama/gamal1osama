@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gamal Osama</h1>
 <h2 align="center">Data Scientist | AI Engineer </h2>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/58e486dd49e5fe8bf2c76b009fd2e6a11f2f39a17802bbdae3029cd6c0250dd6/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6f773934714c474938577341414141432f61692e676966" />
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/C4E12AQH17zFwPpGPmw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1617885610983?e=1769644800&v=beta&t=Z3_c3QFBKCISf4anao8AFOUsR6q0Gre2mG7PGU3qkPI" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=gamal1osama&label=Profile%20views&color=0e75b6&style=flat" alt="gamal1osama" width="130" height="30" />
