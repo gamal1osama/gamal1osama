@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gamal Osama</h1>
-<h2 align="center">Data Scientist | AI Engineer </h2>
+<h2 align="center"> AI/ML Engineer | Data Scientist </h2>
 
 <img align="right" alt="ai-gif" width="360" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*9Wgd_X58Ije_Ml94Qs-P_Q.gif" />
 
