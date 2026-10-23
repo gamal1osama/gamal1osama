@@ -2,18 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gamal Osama</h1>
 <h2 align="center"> AI/ML Engineer | Data Scientist </h2>
 
-<img align="right" alt="ai-gif" width="360" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*9Wgd_X58Ije_Ml94Qs-P_Q.gif" />
-
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=gamal1osama&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat&amp;v=16452"
-    alt="Profile views"
-  />
-</p>
-
-
-
----
+<img align="right" alt="ai-gif" width="360" height="250" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*9Wgd_X58Ije_Ml94Qs-P_Q.gif" />
 
 ### About Me:
 - **Education**: Mansoura University, Faculty of Engineering, Computer Department.
